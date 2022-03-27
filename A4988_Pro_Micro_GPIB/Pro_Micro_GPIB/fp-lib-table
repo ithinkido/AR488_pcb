@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "GPIB Adpater")(type "KiCad")(uri "${KIPRJMOD}/gpib_adapter.pretty")(options "")(descr ""))
+)

@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name Arduino_GPIB_Adapter)(type Legacy)(uri /home/ferdinand/Dropbox/Elektronik/KiCad/Arduino_GPIB_Adapter/Arduino_GPIB_Adapter.lib)(options "")(descr ""))
+  (lib (name PL_GPIB)(type Legacy)(uri /hdd/ferdinand/Dropbox/Elektronik/KiCad/USB_Banana_Adapter/parts/PL_GPIB.lib)(options "")(descr ""))
+)
